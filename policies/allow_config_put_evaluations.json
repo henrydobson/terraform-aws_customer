@@ -1,0 +1,15 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Sid": "Stmt1473335533000",
+            "Effect": "Allow",
+            "Action": [
+                "config:PutEvaluations"
+            ],
+            "Resource": [
+                "*"
+            ]
+        }
+    ]
+}
